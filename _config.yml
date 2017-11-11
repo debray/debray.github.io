@@ -1,2 +1,4 @@
 name: Debajyoti (Deb) Ray
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
